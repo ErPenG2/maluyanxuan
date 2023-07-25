@@ -1,0 +1,30 @@
+{
+  "name": "vue3-admin-mlyx",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vant/area-data": "^1.4.1",
+    "axios": "^0.27.2",
+    "js-cookie": "^3.0.5",
+    "nprogress": "^0.2.0",
+    "pinia": "^2.0.35",
+    "postcss": "^8.4.23",
+    "postcss-preset-env": "^8.3.2",
+    "postcss-pxtorem": "^6.0.0",
+    "sass": "^1.62.1",
+    "vant": "^4.6.2",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.1",
+    "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "unplugin-vue-components": "^0.25.1",
+    "vite": "^4.3.4"
+  }
+}
